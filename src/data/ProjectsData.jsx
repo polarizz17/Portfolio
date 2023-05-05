@@ -33,7 +33,7 @@ const ProjectsCardData = [
     project_alt: "Web 3",
     project_icon: <IoTelescope />,
     project_title: "Portfolio",
-    project_link: "https://saacjgec.vercel.app/",
+    project_link: "https://portfolio-polarizz17.vercel.app/",
     project_bg: "info info_dark",
   },
   {
